@@ -1,0 +1,2 @@
+gcc server/main.c -o build/server
+build/server
